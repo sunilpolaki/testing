@@ -1,5 +1,5 @@
 hello iam sunil polaki
 this line added in github
+conflict
 this is added in git local
 github me add kar diya bhaisaab
-fetch karna padega bhaisaab
